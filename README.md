@@ -1,31 +1,25 @@
-The Kinetic Fitness Series is a collection of six works produced under KFW (Kinetic Fitness Works).
-This series focuses on physical capability, movement principles, and foundational body mechanics.
-It provides a structured approach to understanding and improving human movement through six independent but interconnected books.
+# 02_NAW - Natural Architecture of Work
 
-This section represents the "body layer" of Satoru Hara's overall architecture, forming the most concrete and practical foundation among the three major systems.
+NAW (Natural Architecture of Work) is a system that defines how humans interface with work, cognition, and execution.
+It provides a structural understanding of human workflow, decision-making, and task architecture, forming the "work layer" within Satoru Hara's overall system.
+
+This section bridges the physical foundation of KFW and the higher-level human and civilization structures defined in HNS.
 
 ------------------------------------------------------------
 
 Included Books
 
-01_Fitness-Framework
-  Foundational principles of fitness, physical conditioning, and movement preparation.
-  Provides the conceptual base for all subsequent KFW materials.
+01_Human-Interface-Framework
+  A framework describing how humans interact with tasks, tools, information, and environments.
+  Defines the principles of natural interaction and efficient workflow design.
 
-02_Original-Squat
-  A complete methodology for the Original Squat, including mechanics, alignment, and execution principles.
+02_Natural-Brain
+  A structural model of cognition, decision-making, and mental processing.
+  Explains how the mind organizes work, maintains focus, and executes tasks.
 
-03_Essential-Twelve
-  Twelve essential movement patterns that form the core of functional human motion.
-
-04_Core-Breathing
-  Breathing mechanics and their role in stability, movement efficiency, and physical performance.
-
-05_Core-Stabilization
-  A structured approach to understanding and training core stability as the center of all movement.
-
-06_Original-Squat-Technical-Note
-  Technical notes and detailed clarifications that support the Original Squat methodology.
+03_BodyOS
+  A system describing how the body supports work execution through posture, ergonomics, and physical-cognitive integration.
+  Connects physical mechanics with work performance.
 
 ------------------------------------------------------------
 
@@ -34,13 +28,14 @@ Structure
 - Each folder contains a README explaining its purpose
 - Each book folder includes a PDF (full text)
 - Numbering ensures clarity, order, and reproducibility
-- The Kinetic Fitness Series is organized strictly by book units, not by layers or modules
+- NAW is organized strictly by book units, not by layers or modules
 
 ------------------------------------------------------------
 
-Purpose of the Kinetic Fitness Series
+Purpose of NAW
 
-The Kinetic Fitness Series defines the physical foundation of human capability.
-It establishes the movement principles that support higher-level systems such as NAW (work architecture) and HNS (human and civilization structure).
+NAW defines the architecture of human work.
+It explains how humans think, act, and execute tasks in a structured and reproducible way.
 
-This section is designed to be practical, applicable, and directly connected to real human movement.
+This system forms the bridge between physical capability (KFW) and the broader human-civilization structure (HNS),
+making it the central operational layer of the entire framework.
