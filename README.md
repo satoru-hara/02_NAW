@@ -1,4 +1,4 @@
-# 02_NAW - Natural Architecture of Work
+# 02_NAW - Natural Architecture Work
 
 NAW (Natural Architecture of Work) is a system that defines how humans interface with work, cognition, and execution.
 It provides a structural understanding of human workflow, decision-making, and task architecture, forming the "work layer" within Satoru Hara's overall system.
